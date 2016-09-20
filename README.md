@@ -21,4 +21,5 @@ crossbar:
      - "9999:9999"
 ```
 
+The version of crossbar installed was the one available on pip crossbar-0.15.0-py2.py3-none-any.whl
 
